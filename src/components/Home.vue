@@ -14,7 +14,7 @@
       <div class="col-lg-3">
       </div>
       <div class="col-lg-6">
-        <at-button @click="link('Rating')" icon="icon-star" class="mid-btn" type="primary"  hollow>Begin Rating</at-button>
+        <at-button @click="link('Rating')" icon="icon-star" class="mid-btn" type="primary"  hollow> Rating</at-button>
       </div>
       <div class="col-lg-6">
         <at-button @click="link('Leaderboard')" icon="icon-bar-chart-2" class="mid-btn" type="success" hollow>Open Leaderboard</at-button>
