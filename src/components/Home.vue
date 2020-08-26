@@ -14,10 +14,10 @@
       <div class="col-lg-3">
       </div>
       <div class="col-lg-6">
-        <at-button @click="link('Rating')" icon="icon-star" class="mid-btn" type="primary"  hollow>Start Rating Now</at-button>
+        <at-button @click="link('Rating')" icon="icon-star" class="mid-btn" type="primary"  hollow>Begin Rating</at-button>
       </div>
       <div class="col-lg-6">
-        <at-button @click="link('Leaderboard')" icon="icon-bar-chart-2" class="mid-btn" type="success" hollow>Leaderboard</at-button>
+        <at-button @click="link('Leaderboard')" icon="icon-bar-chart-2" class="mid-btn" type="success" hollow>Open Leaderboard</at-button>
       </div>
       <div class="col-lg-6">
         <a href="https://github.com/microsoft/rating-web" target="_blank"><at-button icon="icon-github" class="mid-btn" type="info" hollow>Steal This Code</at-button></a>
